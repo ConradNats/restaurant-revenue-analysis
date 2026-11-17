@@ -180,7 +180,7 @@ These caveats are part of the deliverable, not an afterthought.
 **Conrad Natuyamba**
 
 - GitHub: [@ConradNats](https://github.com/ConradNats)
-- LinkedIn: [www.linkedin.com/in/conrad-natuyamba-b87a12383](https://www.linkedin.com/in/your-profile/) <!-- update this link -->
+- LinkedIn: [www.linkedin.com/in/conrad-natuyamba-b87a12383]
 
 Module 03 — Data Visualization milestone project.
 
