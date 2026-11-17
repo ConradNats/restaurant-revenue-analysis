@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Scratch and regenerable outputs
+.scratch/
+outputs_*.txt
+verify_out.txt
+outputs_model.csv
+
+# Private assignment brief
+Screenshot*.png
+
+# Rendered HTML (GitHub renders the notebook natively)
+Restaurant_Data_Visualization.html
